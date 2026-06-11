@@ -75,11 +75,9 @@ Brief description of your Python project.
 
 I'd love to connect and collaborate on exciting projects!
 
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [@YourTwitterHandle]
+- 📧 Email: [ankitdaulat360@gmail.com]
+- 🔗 LinkedIn: [🔗 LinkedIn: https://www.linkedin.com/in/ankit-lotiyal-5aa791397/]
 - 🌐 Portfolio: [Your Portfolio Website]
-- 💬 Discord: [Your Discord Handle]
 
 ---
 
